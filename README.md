@@ -12,4 +12,4 @@ This quiz app simply have 20 questions about AI and have following features
 ![img_alt](https://github.com/Fizza111/Quiz-App/blob/main/s4.jpg)
 
 
-![img_alt](https://github.com/Fizza111/Quiz-App/blob/main/s4.jpg))
+![img_alt](https://github.com/Fizza111/Quiz-App/blob/dc70f8c5f0f7a04e7d45c648c81c9763c30d5681/s3.jpg)
