@@ -1,20 +1,11 @@
-<<<<<<< HEAD
+
 # Quiz-App
-=======
-# githubquiz
 
-A new Flutter project.
+This quiz app simply have 20 questions about AI and have following features
+### Splash Screen
+### Every question should be attempt otherwise you can not move to next question
+### if user have selected true , he/she can not again select false from options
+### user can see marks on the top of the screen
+### in the last , result will show on last screen with percentage
+### if user got less than 50% marks the sad image display, if more than 50% the average image and in last for highest score the happy image will display
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 20e02bb (initial commit)
